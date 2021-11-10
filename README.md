@@ -13,3 +13,8 @@
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"></a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyemin085)](https://github.com/anuraghazra/github-readme-stats)<br />
+
+
+<h3>Study💡</h3>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
+
