@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemin085&show_icons=true&theme=radical)
+
+
 <h3>🍳Skills</h3>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -16,4 +19,4 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-orange?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemin085&show_icons=true&theme=radical)
+
