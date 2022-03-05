@@ -16,5 +16,4 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-orange?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyemin085)](https://github.com/anuraghazra/github-readme-stats)<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemin085&show_icons=true&theme=radical)
